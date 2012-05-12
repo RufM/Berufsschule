@@ -1,0 +1,10 @@
+D:\Berufsschule\SAE\Projekte\20120509_Konto_mit_GUI\20120509_Konto_mit_GUI\bin\Debug\20120509_Konto_mit_GUI.exe.config
+D:\Berufsschule\SAE\Projekte\20120509_Konto_mit_GUI\20120509_Konto_mit_GUI\obj\Debug\20120509_Konto_mit_GUI.csprojResolveAssemblyReference.cache
+D:\Berufsschule\SAE\Projekte\20120509_Konto_mit_GUI\20120509_Konto_mit_GUI\obj\Debug\_20120509_Konto_mit_GUI.Form1.resources
+D:\Berufsschule\SAE\Projekte\20120509_Konto_mit_GUI\20120509_Konto_mit_GUI\obj\Debug\_20120509_Konto_mit_GUI.Properties.Resources.resources
+D:\Berufsschule\SAE\Projekte\20120509_Konto_mit_GUI\20120509_Konto_mit_GUI\obj\Debug\20120509_Konto_mit_GUI.csproj.GenerateResource.Cache
+D:\Berufsschule\SAE\Projekte\20120509_Konto_mit_GUI\20120509_Konto_mit_GUI\bin\Debug\20120509_Konto_mit_GUI.exe
+D:\Berufsschule\SAE\Projekte\20120509_Konto_mit_GUI\20120509_Konto_mit_GUI\bin\Debug\20120509_Konto_mit_GUI.pdb
+D:\Berufsschule\SAE\Projekte\20120509_Konto_mit_GUI\20120509_Konto_mit_GUI\obj\Debug\20120509_Konto_mit_GUI.exe
+D:\Berufsschule\SAE\Projekte\20120509_Konto_mit_GUI\20120509_Konto_mit_GUI\obj\Debug\20120509_Konto_mit_GUI.pdb
+D:\Berufsschule\SAE\Projekte\20120509_Konto_mit_GUI\20120509_Konto_mit_GUI\obj\Debug\_20120509_Konto_mit_GUI.account_selection.resources

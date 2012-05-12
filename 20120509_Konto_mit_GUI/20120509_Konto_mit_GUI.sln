@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20120509_Konto_mit_GUI", "20120509_Konto_mit_GUI\20120509_Konto_mit_GUI.csproj", "{A6E60729-8561-48BF-9960-E59532D1B0D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6E60729-8561-48BF-9960-E59532D1B0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E60729-8561-48BF-9960-E59532D1B0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E60729-8561-48BF-9960-E59532D1B0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E60729-8561-48BF-9960-E59532D1B0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
